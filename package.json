@@ -1,0 +1,21 @@
+{
+  "name": "@jondotsoy/react-dynamic-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "tsc",
+    "build": "tsc",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": ["react"],
+  "author": "Jonathan Delgado (http://jon.soy) <hi@jon.soy>",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.32",
+    "typescript": "^4.4.4"
+  }
+}

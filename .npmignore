@@ -1,0 +1,5 @@
+*.ts
+!*.d.ts
+.editorconfig
+tsconfig.json
+*.tgz
